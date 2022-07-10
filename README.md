@@ -4,7 +4,7 @@ Application with which you'll see the weather data about the city that you want.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the different useful packages.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the different packages.
 
 ```bash
 pip install b64
