@@ -10,7 +10,7 @@ def requete(city):
 
 def d_p_h_w(soup,idl):    
     final = []
-    labels = ["Jour et heure","Temps","Température","Précipitations","Humidité","Vent"]
+    labels = ["Day and hour","Weather","Temperature","Rainfall","Humidity","Wind"]
     result = ""
     for ids in idl :
         span = soup.find(id=ids)
