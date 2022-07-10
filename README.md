@@ -16,3 +16,4 @@ pip install streamlit
 ## Usage
 
 Just launch the meteo.py python file and it will work fine !
+![Uploading image.png…]()
